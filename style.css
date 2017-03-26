@@ -1,0 +1,20 @@
+/*
+Theme Name: Pretty Happy
+Theme URI: http://spencerechon.com/pretty-happy
+Description: A theme for Pretty Happy Non-Profit
+Author: Spencer Echon
+Author URI: http://spencerechon.com
+Version: 1.0
+Tags:
+License:
+License URI:
+General comments (optional).
+*/
+
+
+/* CSS reset */
+body, html, div, blockquote, img, label, p, h1, h2, h3, h4, h5, h6, pre, ul,
+ol, li, dl, dt, dd, form, a, fieldset, input, th, td
+{
+margin: 0; padding: 0; border: 0; outline: none;
+}
